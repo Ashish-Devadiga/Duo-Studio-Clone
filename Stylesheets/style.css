@@ -8,6 +8,7 @@
     color:  White;
   }
   
+  
   html body{
     height: 100%;
     width:  100%;
@@ -94,8 +95,8 @@
   }
   
   #nav2 h4 {
-    font-size: 17px;
-    font-weight: 600;
+    font-size: 18px;
+    font-weight: 400;
   }
   #nav h4:nth-child(1) {
     border-bottom: 1px solid white;
@@ -194,24 +195,26 @@
     padding: 5vw;
     gap: 10px
   }
+
   .page3part1 img {
      height: 400px;
      margin-top: 8%
   } 
+
   .page3part1 video {
-     height: 300px;
+     height: 400px;
   } 
   
-  
   .page4 {
-    min-height: 100vh;
+    min-height: 80vh;
     width: 100%;
     position: relative;
     z-index: 9;
     padding: 40px 100px;
   }
+
   .page5 {
-    height: 30vh;
+    height: 20vh;
     width: 100%;
     z-index: 9;
     position: relative;
