@@ -6,12 +6,6 @@ Duo Studio Clone is a replica of the Duo Studio website built using HTML, CSS, J
 
 Check out the live demo of the website here: [Duo Studio Clone Live Demo](https://duo-studio-clone-59ve.onrender.com)
 
-## Preview
-
-Here’s a preview of the Duo Studio Clone website:
-
-![Duo Studio Clone Preview](https://link-to-image.com/preview-image.png)
-
 ## Features
 
 - **Smooth Scrolling**: Smooth scrolling is implemented with Locomotive.js, offering seamless navigation.
