@@ -6,7 +6,7 @@ Duo Studio Clone is a replica of the Duo Studio website built using HTML, CSS, J
 
 Check out the live demo of the website here: [Duo Studio Clone Live Demo](https://duo-studio-clone-59ve.onrender.com)
 
-![Image](blob:https://in.pinterest.com/770611f2-8c29-4d0a-b6cc-32b6aab66dd3)
+![Image](https://i.pinimg.com/1200x/d6/da/f6/d6daf6f83985b7a9b4c05d7f4cf27884.jpg)
 
 ## Features
 
